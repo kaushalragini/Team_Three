@@ -12,7 +12,7 @@
 div input{
      font-size: medium;
      border: 1px solid rgb(232, 240, 232);
-     width: 95%;
+     width: 90%;
      height: 50px;
      margin-bottom: 50px;
      border-radius: 5px;
@@ -23,7 +23,7 @@ button{
      background-color: #1877f2;
      color: azure;
      font-size: 25px;
-     width: 80%;
+     width: 90%;
      height: 50px;
      margin-bottom: 30px;
      border-radius: 5px;
