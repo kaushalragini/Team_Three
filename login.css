@@ -1,0 +1,38 @@
+#box{
+     border: 0px solid red;
+     width: 30%;
+     height: 500px;
+     margin: auto;
+     margin-top: 150px;
+     text-align: center;
+     background-color: white;
+     border-radius: 20px;
+     padding-top: 30px;
+}
+div input{
+     font-size: medium;
+     border: 1px solid rgb(232, 240, 232);
+     width: 400px;
+     height: 50px;
+     margin-bottom: 50px;
+     border-radius: 5px;
+     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+
+}
+button{
+     background-color: #1877f2;
+     color: azure;
+     font-size: 25px;
+     width: 400px;
+     height: 50px;
+     margin-bottom: 30px;
+     border-radius: 5px;
+     border: none;
+}
+body{
+     background-color: #1877f2;
+}
+p{
+     color: #1877f2;
+     font-size: medium;
+}
